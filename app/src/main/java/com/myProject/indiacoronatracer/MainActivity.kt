@@ -1,8 +1,7 @@
-package com.example.coronaindiatracker
+package com.myProject.indiacoronatracer
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.provider.Settings
 import android.view.LayoutInflater
 import com.google.gson.Gson
 import kotlinx.android.synthetic.main.activity_main.*

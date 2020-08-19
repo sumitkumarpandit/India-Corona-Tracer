@@ -1,4 +1,4 @@
-package com.example.coronaindiatracker
+package com.myProject.indiacoronatracer
 import okhttp3.Request
 import okhttp3.OkHttpClient
 object Client {

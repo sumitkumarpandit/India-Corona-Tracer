@@ -1,4 +1,4 @@
-package com.example.coronaindiatracker
+package com.myProject.indiacoronatracer
 
 import org.junit.Test
 

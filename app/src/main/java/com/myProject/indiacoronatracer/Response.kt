@@ -1,4 +1,4 @@
-package com.example.coronaindiatracker
+package com.myProject.indiacoronatracer
 
 data class Response (
     val statewise: List<StatewiseItem>

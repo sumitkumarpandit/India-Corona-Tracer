@@ -1,4 +1,4 @@
-package com.example.coronaindiatracker
+package com.myProject.indiacoronatracer
 import kotlinx.android.synthetic.main.item_list.view.*
 import android.view.LayoutInflater
 import android.view.View
